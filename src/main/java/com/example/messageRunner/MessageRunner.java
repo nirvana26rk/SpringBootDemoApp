@@ -11,6 +11,7 @@ public class MessageRunner implements CommandLineRunner {
 		int a = 10;
 		System.out.println("Hello World "+a);
 		System.out.println("Hello Kunal");
+		System.out.println("Hello India");
 
 	}
 
