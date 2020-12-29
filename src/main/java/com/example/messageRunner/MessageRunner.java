@@ -10,6 +10,7 @@ public class MessageRunner implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		int a = 10;
 		System.out.println("Hello World "+a);
+		System.out.println("Hello Kunal");
 
 	}
 
